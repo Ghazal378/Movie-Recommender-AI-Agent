@@ -12,3 +12,6 @@ Movie Details Retrieval:
 For matching movies, the app retrieves detailed attributes from knowledge graph like:
 Title, Tagline, Genres, Summary, Runtime, Poster URL, and IMDb ID.
 Displays results in an interactive GUI.
+ P.S:
+the dataset used in this project:
+https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies
